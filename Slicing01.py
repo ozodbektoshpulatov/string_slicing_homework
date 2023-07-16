@@ -6,4 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    def main(s):
+        answer='Ozodbek'
+        return answer
+    print(main(s))
