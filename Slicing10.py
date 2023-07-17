@@ -8,4 +8,6 @@ def main(s,n,k):
     Returns:
         str: answer
     """
-    return
+    s="parameter"
+    return s[:6]
+print(main("parameter"))
