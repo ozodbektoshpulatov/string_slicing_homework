@@ -6,6 +6,5 @@ def main(s):
     Returns:
         str: answer
     """
-    s="Toshpulatov"
-    return s[-4]
+    return s[-4:]
 print(main("Toshpulatov"))
