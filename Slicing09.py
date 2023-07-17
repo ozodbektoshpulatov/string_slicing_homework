@@ -6,4 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    s="0123456789"
+    return s[0: :2]
+print(main("0123456789"))
