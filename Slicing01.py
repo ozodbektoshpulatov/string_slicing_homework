@@ -7,5 +7,5 @@ def main(s):
         str: answer
     """
     s="Ozodbekk"
-    return s[3]
+    return s[:4]
 print(main("Ozodbekk"))
