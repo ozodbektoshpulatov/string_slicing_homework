@@ -10,4 +10,4 @@ def main(s,n,k):
     """
     s="parameter"
     return s[:6]
-print(main("parameter"))
+# print(main("parameter",0,4))
