@@ -9,4 +9,4 @@ def main(s,n):
     """
     s="[parameter]"
     return s[n]
-print(main("parameter"),-1)
+# print(main("parameter"),-1)
